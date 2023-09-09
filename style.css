@@ -10,6 +10,17 @@
   z-index: -1;
 }
 
+.download-link {
+  padding: 10px 20px;
+  background-color: #212863;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+  display: inline-block;
+  margin-right: 10px; /* Optional: Add some space between the links */
+  width: 120px;
+}
+
 .header-container {
   position: relative;
   height: 100vh;
